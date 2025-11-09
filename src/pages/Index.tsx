@@ -158,7 +158,7 @@ const Index = () => {
             desc: "Cum scapi de energia masculină copleșitoare și revii la grația feminină, în viața de zi cu zi."
           }, {
             title: "Tehnica de 5 minute/zi",
-            desc: "Îți trezește încrederea fără efort și fără ritualuri ciudate."
+            desc: "Care se face oriunde (acasă sau la birou) și îți dă un boost de încredere imediat."
           }, {
             title: "Greșeala comună",
             desc: "Care îți sabotează feminitatea (și cum s-o corectezi ca să te simți din nou atrăgătoare)."
