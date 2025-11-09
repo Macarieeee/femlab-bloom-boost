@@ -209,7 +209,7 @@ const Index = () => {
             <Card className="p-6 text-center shadow-card">
               <FileText className="w-12 h-12 mx-auto mb-4 text-secondary" />
               <h3 className="font-serif text-xl font-semibold mb-2">PDF Limite blânde & Mâncat Emoțional</h3>
-              <p className="text-muted-foreground">21 fraze-model pentru limite + protocol în 5 pași ca să rupi ciclul mâncatului pe fond emoțional — sprijină slăbitul sănătos și echilibrul minte–corp.</p>
+              <p className="text-muted-foreground">Setezi limite, rupi mâncatul emoțional — ghid în 5 pași</p>
             </Card>
             <Card className="p-6 text-center shadow-card">
               <Headphones className="w-12 h-12 mx-auto mb-4 text-accent" />
