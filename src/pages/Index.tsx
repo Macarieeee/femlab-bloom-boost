@@ -102,9 +102,8 @@ const Index = () => {
             <h1 className="font-serif text-4xl md:text-6xl font-bold text-foreground mb-4 leading-tight">
               Simți că ți-ai pierdut strălucirea feminină?
             </h1>
-            <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto mb-6">Urmărește video‑ul (8 min) și aplică Metoda Piramidei Prezenței Feminine — 3 piloni simpli — pentru a‑ți crește încrederea în tine, a activa slăbitul sănătos și a atrage oportunități & relații care te onorează în 5 minute pe zi, timp de 7 zile.<strong>Metoda în 3 Piloni</strong> cu care îți crești
-              încrederea în tine, pui în mișcare slăbitul sănătos și atragi oportunități & relații care te onorează —
-              în doar 5 minute pe zi.
+            <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto mb-6">
+              Urmărește video-ul (8 min) și aplică Metoda Piramidei Prezenței Feminine — 3 piloni simpli — pentru a-ți <strong>crește încrederea în tine</strong>, a activa <strong>slăbitul sănătos</strong> și a <strong>atrage oportunități</strong> & <strong>relații care te onorează</strong> în <strong>5 minute</strong> pe zi, timp de 7 zile.
             </p>
 
             <div className="flex flex-wrap gap-4 justify-center mb-8 text-sm">
