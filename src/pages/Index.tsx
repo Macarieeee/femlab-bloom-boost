@@ -132,7 +132,7 @@ const Index = () => {
               Îți trimitem doar ce ai cerut. Te poți dezabona oricând.
             </p>
             <Badge variant="outline" className="mt-4 border-primary text-primary">
-              La înscriere: PDF 'Ritualul de 7 Zile' + Audio 3 minute
+              La înscriere: PDF Limite blânde & Mâncat Emoțional_ Soluții pentru Echilibru Emoțional + Audio 3 minute
             </Badge>
           </div>
 
