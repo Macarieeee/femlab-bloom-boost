@@ -208,7 +208,7 @@ const Index = () => {
             </Card>
             <Card className="p-6 text-center shadow-card">
               <FileText className="w-12 h-12 mx-auto mb-4 text-secondary" />
-              <h3 className="font-serif text-xl font-semibold mb-2">PDF 'Ritualul de 7 Zile'</h3>
+              <h3 className="font-serif text-xl font-semibold mb-2">PDF Limite blânde & Mâncat Emoțional</h3>
               <p className="text-muted-foreground">Checklist zilnic + micro-obiceiuri pentru încredere și slăbit.</p>
             </Card>
             <Card className="p-6 text-center shadow-card">
