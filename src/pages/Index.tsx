@@ -204,7 +204,7 @@ const Index = () => {
             <Card className="p-6 text-center shadow-card">
               <Video className="w-12 h-12 mx-auto mb-4 text-primary" />
               <h3 className="font-serif text-xl font-semibold mb-2">Video (10 min)</h3>
-              <p className="text-muted-foreground">Metoda în 3 piloni, pas cu pas.</p>
+              <p className="text-muted-foreground">Metoda Piramidei Prezenței Feminine, pas cu pas — aplicăm împreună cei 3 piloni.</p>
             </Card>
             <Card className="p-6 text-center shadow-card">
               <FileText className="w-12 h-12 mx-auto mb-4 text-secondary" />
