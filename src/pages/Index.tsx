@@ -286,7 +286,7 @@ const Index = () => {
                   <a href={CONFIG.CHECKOUT_URL}>Ia VIP Pass</a>
                 </Button>
                 <p className="text-xs text-muted-foreground mt-4">
-                  Acces instant. Banii înapoi 7 zile dacă nu e pentru tine.
+                  Acces instant. Primești banii înapoi în primele 7 zile dacă nu e pentru tine.
                 </p>
               </div>
             </Card>
