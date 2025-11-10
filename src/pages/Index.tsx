@@ -263,7 +263,7 @@ const Index = () => {
               <div className="text-center mb-8">
                 <Crown className="w-16 h-16 mx-auto mb-4 text-accent" />
                 <h2 className="font-serif text-3xl md:text-4xl font-bold mb-4">
-                  Vrei sprijin mai aproape? Ia VIP Pass pentru masterclass
+                  Simți că situația ta are nevoie de mai multă atenție? Ia VIP Pass pentru masterclass.
                 </h2>
                 <p className="text-muted-foreground">Acces prioritar și materiale avansate</p>
               </div>
