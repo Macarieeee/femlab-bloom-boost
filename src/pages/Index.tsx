@@ -300,10 +300,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="w-32 h-32 rounded-full bg-gradient-vip flex-shrink-0" />
             <p className="text-lg text-muted-foreground text-left">
-              Sunt <strong>[Nume]</strong>, coach pe feminitate & prezență. Am creat Metoda în 3 Piloni după ani în
-              care m-am simțit pe pilot automat. Astăzi ghidez femei 18–45 să revină la ele prin pași simpli, blânzi
-              și practici zilnice de 5–10 minute. Nu e terapie, nu e perfecționism — e reconectare reală cu corpul și
-              feminitatea ta.
+              Sunt <strong>Susanne</strong>, coach pe feminitate & prezență. Deși am intrat printre primele la trei facultăți, mă simțeam „fără loc". Dansul m‑a adus înapoi la mine: încredere, feminitate, claritate. Am lucrat cu Delia, Alex Velea, Connect‑R, INNA, Otilia și am călătorit în lume. Din experiența asta am creat Metoda Piramidei Prezenței Feminine (3 piloni: corp • minte • spirit), cu care ghidez femei spre schimbări vizibile, fără perfecționism — doar pași blânzi, constanți.
             </p>
           </div>
         </div>
